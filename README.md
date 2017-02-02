@@ -1,3 +1,3 @@
 # RandomColor
-# RandomColor
-https://github.com/Dertod25/heroku-random-color
+
+DEMO:  https://change-color-random.herokuapp.com/
